@@ -1,6 +1,6 @@
 # ArduinoRobot
 
-##Description
+## Description
 
 __The code part of an arduino based game.__ Through the "Arduino Bluetooth RC Car" phone app, that provides an GUI complete with controllers, you send an bluetooth signal to your robot.
 The signal can be interpreted as movement (wheels & DC motors) or shooting a laser (a laser diode attached to the robot). The robot also has a light sensor attached to it.
